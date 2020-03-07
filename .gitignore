@@ -12,3 +12,11 @@ pom.xml.asc
 .lein-failures
 .nrepl-port
 .cpcache/
+/resources/cmudict/cmudict-0.7b
+/resources/cmudict/syllabified-cmudict-0.7b
+/charadriidae.iml
+/.idea/*
+/resources/plover/main-v311.json
+/resources/plover/main.json
+.rebl/*
+/resources/norvig/frequencies
